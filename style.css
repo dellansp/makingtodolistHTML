@@ -1,0 +1,13 @@
+body {
+    background-color: burlywood;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial", "Lucida Grande", sans-serif;
+}
+.todo-wrapper {
+    margin-top: 50px;
+    background-color: white;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    font-weight: 100;
+}
